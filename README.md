@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Krupal Panchal</h1>
-<h3 align="center">A WordPress Developer 💻</h3>
+<h1 align="center">Hi 👋, I'm Akshay Kungiri</h1>
+<h3 align="center">A Senior WordPress Developer 💻</h3>
 
 <br>
 
 
 - 🌱 I’m currently Working as WordPress developer. Also learning Web Development and other Programming Language.
-- 📫 How to reach me **krupalpanchal1506@gmail.com**
+- 📫 How to reach me **akshaykungiri@gmail.com**
 - 💬 Ask me about anything related to WordPress, PHP.(After Googling it 😜😌)
 - ⚡ Fun fact :-  Watching  Movies & Web Series  🎥,  Playing Games 🎮
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! 😜
@@ -77,13 +77,13 @@
 <h3 align="center">📧 Connect with me:</h3>
 <div align="center">
  
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krupalpanchal/)
-[![image](https://img.shields.io/badge/-WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/krupalpanchal/) 
-[![image](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krupal-panchal)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krupalpanchal1506@gmail.com)
-[![image](https://img.shields.io/badge/stackoverflow-f48225?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10175848/krupal-panchal)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krupal.panchal.11/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/krupalpanchal11)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/akshay-kungiri-429421133)
+[![image](https://img.shields.io/badge/-WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/akshaykungiri/) 
+[![image](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshayKungiri)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaykungiri@gmail.com)
+[![image](https://img.shields.io/badge/stackoverflow-f48225?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 </div>
 
@@ -91,8 +91,8 @@
 <br>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krupal-panchal&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krupal-panchal&layout=compact&langs_count=6"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshayKungiri&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayKungiri&layout=compact&langs_count=6"/>
 </div>
 
 <br>
