@@ -4,9 +4,9 @@
 <br>
 
 
-- 🌱 I’m currently Working as WordPress developer. Also learning Web Development and other Programming Language.
+- 🌱 I’m currently Working as Senior WordPress developer. Also learning Web Development and other Programming Language.
 - 📫 How to reach me **akshaykungiri@gmail.com**
-- 💬 Ask me about anything related to WordPress, PHP.(After Googling it 😜😌)
+- 💬 Ask me about anything related to WordPress, PHP and Javascript.(After Googling it 😜😌)
 - ⚡ Fun fact :-  Watching  Movies & Web Series  🎥,  Playing Games 🎮
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! 😜
 
